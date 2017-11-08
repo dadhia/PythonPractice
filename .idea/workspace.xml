@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e46eef1-5ccd-4523-907f-79e25b7f6a9b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Hackerrank/Warmup/Birthday Cake Candles.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Hackerrank/Warmup/TimeConversion.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Mini-Max Sum.py" afterPath="$PROJECT_DIR$/Hackerrank/Warmup/Mini-Max Sum.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/PlusMinus.py" afterPath="$PROJECT_DIR$/Hackerrank/Warmup/PlusMinus.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Staircase.py" afterPath="$PROJECT_DIR$/Hackerrank/Warmup/Staircase.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Hackerrank/Implementation/AppleAndOrange.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Hackerrank/Implementation/BetweenTwoSets.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Hackerrank/Implementation/BreakingTheRecords.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Hackerrank/Implementation/GradingStudents.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Hackerrank/Implementation/Kangaroo.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,11 +48,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TimeConversion.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TimeConversion.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hackerrank/Warmup/TimeConversion.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GradingStudents.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hackerrank/Implementation/GradingStudents.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppleAndOrange.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hackerrank/Implementation/AppleAndOrange.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Kangaroo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hackerrank/Implementation/Kangaroo.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="14" selection-end-column="22" />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BetweenTwoSets.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hackerrank/Implementation/BetweenTwoSets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BreakingTheRecords.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hackerrank/Implementation/BreakingTheRecords.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,14 +125,19 @@
       <list>
         <option value="$PROJECT_DIR$/Hackerrank/Warmup/Birthday Cake Candles.py" />
         <option value="$PROJECT_DIR$/Hackerrank/Warmup/TimeConversion.py" />
+        <option value="$PROJECT_DIR$/Hackerrank/Implementation/GradingStudents.py" />
+        <option value="$PROJECT_DIR$/Hackerrank/Implementation/AppleAndOrange.py" />
+        <option value="$PROJECT_DIR$/Hackerrank/Implementation/Kangaroo.py" />
+        <option value="$PROJECT_DIR$/Hackerrank/Implementation/BetweenTwoSets.py" />
+        <option value="$PROJECT_DIR$/Hackerrank/Implementation/BreakingTheRecords.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="718" />
-    <option name="y" value="421" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-16" />
+    <option name="y" value="-16" />
+    <option name="width" value="1396" />
+    <option name="height" value="1738" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -115,7 +170,7 @@
               <item name="PythonPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonPractice" type="462c0819:PsiDirectoryNode" />
               <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="Warmup" type="462c0819:PsiDirectoryNode" />
+              <item name="Implementation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,54 +200,114 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TimeConversion">
-    <configuration name="Birthday Cake Candles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.BreakingTheRecords">
+    <configuration name="AppleAndOrange" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank/Warmup" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank/Implementation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonPractice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank/Warmup/Birthday Cake Candles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank/Implementation/AppleAndOrange.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="TimeConversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="BetweenTwoSets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank/Warmup" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank/Implementation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonPractice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank/Warmup/TimeConversion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank/Implementation/BetweenTwoSets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Python.Birthday Cake Candles" />
-      <item index="1" class="java.lang.String" itemvalue="Python.TimeConversion" />
+    <configuration name="BreakingTheRecords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank/Implementation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonPractice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank/Implementation/BreakingTheRecords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="GradingStudents" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank/Implementation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonPractice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank/Implementation/GradingStudents.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Kangaroo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank/Implementation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonPractice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank/Implementation/Kangaroo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.GradingStudents" />
+      <item index="1" class="java.lang.String" itemvalue="Python.AppleAndOrange" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Kangaroo" />
+      <item index="3" class="java.lang.String" itemvalue="Python.BetweenTwoSets" />
+      <item index="4" class="java.lang.String" itemvalue="Python.BreakingTheRecords" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.TimeConversion" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Birthday Cake Candles" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.BreakingTheRecords" />
+        <item index="1" class="java.lang.String" itemvalue="Python.BetweenTwoSets" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Kangaroo" />
+        <item index="3" class="java.lang.String" itemvalue="Python.AppleAndOrange" />
+        <item index="4" class="java.lang.String" itemvalue="Python.GradingStudents" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -202,12 +317,21 @@
       <option name="presentableId" value="Default" />
       <updated>1510104887890</updated>
     </task>
+    <task id="LOCAL-00001" summary="added Birthda Cake Candles and Time Conversion">
+      <created>1510145332768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510145332768</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="2768" height="1756" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -233,8 +357,14 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added Birthda Cake Candles and Time Conversion" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Birthda Cake Candles and Time Conversion" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -264,8 +394,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hackerrank/Warmup/TimeConversion.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hackerrank/Implementation/GradingStudents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hackerrank/Implementation/AppleAndOrange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hackerrank/Implementation/Kangaroo.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="14" selection-end-column="22" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hackerrank/Implementation/BetweenTwoSets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hackerrank/Implementation/BreakingTheRecords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
